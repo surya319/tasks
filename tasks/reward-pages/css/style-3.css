@@ -1,0 +1,96 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: #ffe9e1;
+    width: 450px;
+}
+.containers{
+    width: 300px;
+}
+/* header styles starts here */
+.header{
+    text-align: center;
+    padding-top: 2rem;
+    background-color: #ffe9e1;
+    padding-bottom: 20px;
+    position: relative;
+}
+.header .down{
+    position: absolute;
+    top: 20%;
+    right: 42%;
+}
+.header i{
+    padding: 12px 12px;
+    background-color: #fff;
+    border-radius: 20px 20px;
+    font-size: 14px;
+    color: #593e4d;
+}
+.header h6{
+    font-size: 14px;
+    color: #60024c;
+    font-weight: 700;
+    padding-left: 2rem;
+    padding-top: 5rem;
+}
+.header h5{
+    font-size: 1.7rem;
+    font-weight: 700;
+    padding-left: 3rem;
+}
+/* section-1 starts here */
+.section-1{
+    background-color: #ffe9e1;
+    padding-bottom: 30px;
+    padding-left: 1.2rem;
+}
+.section-1 h6{
+    font-size: 13px;
+    color: #60024c;
+    font-weight: 700;
+}
+.section-1 span{
+    font-size: 32px;
+    font-weight: 600;
+}
+.section-1 i{
+    font-size: 13px;
+}
+.section-1 img{
+    height: 30px;
+    padding-right: 10px;
+}
+.part-2 p{
+    text-align:justify;
+}
+.section-1 button{
+    margin-top: 15px;
+    background-color: #60024c;
+    color: #ffff;
+    border: none;
+    padding: 1.2rem 3rem;
+    border-radius: 35px;
+    margin-bottom: 15px;
+}
+.section-1 .part-1{
+    padding-top: 20px;
+}
+.section-1 .part-2{
+    padding-top: 20px;
+    padding-left: 1rem;
+}
+.section-1 .card{
+    border-radius: 20px 20px;
+}
+.pig {
+    width: 450px;
+    background-color: #ffe9e1;
+}
+.pig img{
+    max-width: 100%;
+    padding-bottom: 30px;
+}

@@ -1,0 +1,132 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+/* section styles starts here */
+.section{
+    margin-top: 4rem;
+    background-color: #ffe9e1;
+    padding: 8rem 3rem;
+}
+.section .part-1{
+    border-bottom: 1px solid #eeeded;
+    padding: 20px 20px;
+    color: #ffff;
+    height: 300px;
+    background-color: #e68b76;
+    background-image: url("../images/flight-1.jpg");
+    background-position: 100% 52%;
+    background-repeat: no-repeat;
+    border-radius: 20px 20px;
+}
+.section .p{
+    margin-left: 3rem;
+    margin-top: 4.2rem;
+    font-weight: 600;
+    color: #565252;
+    font-size: 16px;
+    text-align: inherit;
+}
+.part-1 h6{
+    font-size: 12px;
+    padding-bottom: 18px;
+}
+.part-1 h4{
+    font-weight: 600;
+    padding-bottom: 4.2rem;
+}
+.part-1 .two{
+    padding-top: 15px;
+    border-top: 1px solid #ffff;
+}
+.two img{
+    width: 59px;
+    height: 35px;
+    margin-right: 20px;
+    margin-top: 8px;
+}
+.part-1 span{
+    font-weight: 700;
+    font-size: 14px;
+}
+.part-1 p{
+    font-size: 12px;
+    color: #f1f6f8;
+}
+/* part-2 styles starts here */
+.section .part-2{
+    border-bottom: 1px solid #eeeded;
+    padding: 20px 20px;
+    color: #ffff;
+    height: 300px;
+    background-color: #5d9dc3;
+    background-image: url("../images/coins.jpg");
+    background-position: 69% 52%;
+    background-repeat: no-repeat;
+    border-radius: 20px 20px;
+}
+.part-2 h6{
+    font-size: 12px;
+    padding-bottom: 18px;
+}
+.part-2 h4{
+    font-weight: 600;
+    padding-bottom: 6rem;
+}
+.part-2 .two{
+    padding-top: 15px;
+    border-top: 1px solid #ffff;
+}
+.two img{
+    width: 59px;
+    height: 35px;
+    margin-right: 20px;
+    margin-top: 8px;
+}
+.part-2 span{
+    font-weight: 700;
+    font-size: 14px;
+}
+.part-2 p{
+    font-size: 12px;
+    color: #f1f6f8;
+}
+/* part-3 styles starts here */
+.section .part-3{
+    border-bottom: 1px solid #eeeded;
+    padding: 20px 20px;
+    color: #ffff;
+    height: 300px;
+    background-color: #ca6d78;
+    background-image: url("../images/gift.jpg");
+    background-position: 67% 52%;
+    background-repeat: no-repeat;
+    border-radius: 20px 20px;
+}
+.part-3 h6{
+    font-size: 12px;
+    padding-bottom: 18px;
+}
+.part-3 h4{
+    font-weight: 600;
+    padding-bottom: 6rem;
+}
+.part-3 .two{
+    padding-top: 15px;
+    border-top: 1px solid #ffff;
+}
+.two img{
+    width: 59px;
+    height: 35px;
+    margin-right: 20px;
+    margin-top: 8px;
+}
+.part-3 span{
+    font-weight: 700;
+    font-size: 14px;
+}
+.part-3 p{
+    font-size: 12px;
+    color: #f1f6f8;
+}

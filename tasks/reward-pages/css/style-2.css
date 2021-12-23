@@ -1,0 +1,99 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+/* header styles starts here */
+.header{
+    background-color: #ffddd0;
+    padding-top: 4rem;
+    position: relative;
+}
+.header img{
+    width: 100%;
+}
+.header .down{
+    position: absolute;
+    top: 16%;
+    left: 6%;
+}
+.header i{
+    padding: 12px 12px;
+    background-color: #fff;
+    border-radius: 20px 20px;
+    font-size: 14px;
+    color: #593e4d;
+}
+/* section-1 styles starts here */
+.section-1{
+    background-color: #ffe4d9;
+    padding-bottom: 25px;
+}
+.section-1 h6{
+    text-align: center;
+    padding-top: 4rem;
+    font-size: 1.2rem;
+    color: #272126;
+}
+.section-1 h5,p{
+    font-size: 1.2rem;
+}
+.section-1 p{
+    font-weight: 600;
+    color: #5a4d58;
+    margin-top: 5px;
+    background-color: #ffcebf;
+}
+.section-1 .bor{
+    width: 100%;
+    text-align: center;
+}
+.section-1 .bor p{
+    background-color: #fed6ca;
+}
+.section-1 h5{
+    text-align: center;
+    color: #272126;
+}
+.section-1 .div{
+    height: 0px;
+    border-bottom: 0.5px solid rgb(220 201 201);
+    margin-top: 20px;
+}
+/* section-1 styles starts here */
+.section-2{
+    background-color: #ffe4d9;
+    padding-bottom: 3rem;
+}
+.section-2 .div{
+    height: 0px;
+    border-bottom: 0.5px solid rgb(220 201 201);
+    margin-top: 20px;
+}
+.section-2 h6{
+    color: #60024c;
+    text-transform: uppercase;
+    font-size: 14px;
+    font-weight: 650;
+}
+.section-2 span{
+    font-size: 32px;
+    font-weight: 600;
+}
+.section-2 i{
+    font-size: 22px;
+}
+.section-2 button{
+    margin-top: 20px;
+    background-color: #60024c;
+    color: #ffff;
+    border: none;
+    padding: 1.2rem 3rem;
+    border-radius: 35px;
+}
+.section-2 p{
+    padding-top: 20px;
+    color: #60024c;
+    font-weight: 700;
+    font-size: 18px;
+}

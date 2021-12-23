@@ -1,0 +1,161 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+/* header styles starts here */
+.header .first{
+    background-color: #f2f2f2;
+    border-radius: 15px 15px;
+    padding: 10px;
+}
+.header h2{
+    font-weight: 700;
+    padding-top: 20px;
+    padding-bottom: 15px;
+}
+.first i{
+    padding: 0px 10px;
+    color: #dfd9d9;
+}
+.first span{
+    color: #dfd9d9;
+    font-weight: 600;
+}
+/* section-1 styles starts here */
+.section-1{
+    padding-bottom: 30px;
+    padding-top: 20px;
+}
+.section-1 .h6{
+    font-weight: 700;
+    padding-top: 10px;
+    color: #5f094a;
+    text-transform: uppercase;
+    font-size: 13px;
+    padding-bottom: 10px;
+    border-bottom: 1px solid #f1ebeb;
+}
+.walmart{
+    padding-bottom: 15px;
+}
+.section-1 h6{
+    padding-top: 12px;
+}
+.section-1 img{
+    margin-top: 8px;
+    width: 30px;
+    height: 29px;
+    margin-right: 12px;
+}
+.walmart span{
+    font-weight: 700;
+    font-size: 14px;
+}
+.walmart p{
+    font-size: 11px
+}
+.domino span{
+    font-weight: 700;
+    font-size: 14px;
+}
+.domino p{
+    font-size: 11px
+}
+.domino{
+    border-bottom: 1px solid #f1ebeb;
+}
+.star span{
+    font-weight: 700;
+    font-size: 14px;
+}
+.star p{
+    font-size: 11px
+}
+.star{
+    border-bottom: 1px solid #f1ebeb;
+}
+.netflix span{
+    font-weight: 700;
+    font-size: 14px;
+}
+.netflix p{
+    font-size: 11px
+}
+.section-1 .content{
+    background-color: #fde8e7;
+    padding-top: 1px;
+    padding-bottom: 1px;
+    margin-left: 2.6rem;
+    padding-left: 16px;
+    margin-bottom: 10px;
+    border-radius: 20px 20px;
+}
+.content p{
+    font-size: 14px;
+    margin-top: 12px;
+}
+.content i{
+    color: #5f094a;
+    font-weight: 700;
+}
+.wall-2{
+    border-top: 1px solid #f1ebeb;
+}
+.wall-2 .cons{
+    margin-top: 10px;
+}
+.walmarts span{
+    font-weight: 700;
+    font-size: 14px;
+}
+.walmarts p{
+    font-size: 11px
+}
+.walmarts{
+    border-top: 1px solid #f1ebeb;
+}
+.udemy span{
+    font-weight: 700;
+    font-size: 14px;
+}
+.udemy p{
+    font-size: 11px
+}
+.udemy{
+    border-top: 1px solid #f1ebeb;
+    border-bottom: 1px solid #f1ebeb;
+}
+.dropbox span{
+    font-weight: 700;
+    font-size: 14px;
+}
+.dropbox p{
+    font-size: 11px
+}
+.section-1 .content-1{
+    background-color: #fff3e7;
+    padding-top: 1px;
+    padding-bottom: 1px;
+    margin-left: 2.6rem;
+    padding-left: 16px;
+    margin-bottom: 10px;
+    border-radius: 20px 20px;
+}
+.content-1 p{
+    font-size: 14px;
+    margin-top: 12px;
+}
+.content-1 i{
+    color: #5f094a;
+    font-weight: 700;
+}
+.section-2{
+    padding-bottom: 20px;
+}
+.section-2 i{
+    font-size: 22px;
+    background-color: #f48e80;
+    padding: 20px 21px;
+    border-radius: 30px 30px;
+}
